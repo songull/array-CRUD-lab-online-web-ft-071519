@@ -32,7 +32,7 @@ famous [0]
 end
 
 def retrieve_first_element_from_array(array)
-food = ["thai", "mexican", "american", "indian"]
+food = ["wow", "mexican", "american", "indian"]
 food.first
 end
 
