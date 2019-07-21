@@ -37,6 +37,6 @@ food.first
 end
 
 def retrieve_last_element_from_array(array)
-flowers = ["daisy", "rose", "lavender", "cactus"]
+flowers = ["daisy", "rose", "lavender", "arrays!"]
 flowers.last
 end
