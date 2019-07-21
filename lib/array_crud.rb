@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
 cats = ["lb", "gg", "cc", "m"]
-cats.push ("nc")
+cats.push ("arrays!")
 puts cats.push
 end
 
