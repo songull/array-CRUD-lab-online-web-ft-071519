@@ -22,7 +22,7 @@ del = candy.pop
 end
 
 def remove_element_from_start_of_array(array)
-books = ["paper", "book", "pen", "pencil"]
+books = ["wow", "book", "pen", "pencil"]
 author = books.shift
 end
 
