@@ -38,4 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
 flowers = ["daisy", "rose", "lavender", "cactus"]
+flowers.last
 end
